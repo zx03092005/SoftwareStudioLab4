@@ -15,4 +15,4 @@ SoftwareStudio Lab4 2016
 
 #Screenshot
 
-![alt tag](http://csclab.tw/static/mainsite/img/csc.png)
+![alt tag](/csc.png)

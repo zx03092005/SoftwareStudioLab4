@@ -12,3 +12,7 @@ SoftwareStudio Lab4 2016
 姓名：
 
 學號：
+
+#Screenshot
+
+![alt tag](http://csclab.tw/static/mainsite/img/csc.png)

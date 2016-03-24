@@ -7,7 +7,7 @@ public class Square extends Shape {
 	
 	public Square(int shapeWidth){
 		// TODO Constructor
-		
+		this.shapeWidth = shapeWidth;
 	}
 	
 	
@@ -36,14 +36,14 @@ public class Square extends Shape {
 	@Override
 	public int getCenterX(int mouseX) {
 		// TODO Input mouse X position and return center X of square
-		return 0;
+		return mouseX - shapeWidth/2;
 	}
 
 
 	@Override
 	public int getCenterY(int mouseY) {
 		// TODO Input mouse Y position and return center Y of square
-		return 0;
+		return mouseY - shapeWidth/2;
 	}
 
 
